@@ -1,0 +1,5 @@
+{
+  "name": "iOS-Style-Wheel-Date-Picker",
+  "description": "A clean, SwiftUI-inspired wheel-style date picker for web, featuring Japanese locale support and a date range from 1900 to today.",
+  "requestFramePermissions": []
+}
